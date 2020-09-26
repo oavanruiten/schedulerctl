@@ -1,0 +1,11 @@
+*-debug.log
+*-error.log
+.env
+/.nyc_output
+/dist
+/lib
+/tmp
+/yarn.lock
+addon-manifest.json
+node_modules
+sandbox.js
